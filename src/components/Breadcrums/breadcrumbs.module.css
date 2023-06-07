@@ -1,0 +1,25 @@
+.wrapper {
+    height: 500px;
+    background-position: 150px;
+    background-image: url(../../../public/images/bg.jpeg);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.title {
+    font-size: 52px;
+    color: #fff;
+    margin-right: 600px;
+    font-weight: 700;
+}
+.descr {
+    font-size: 28px;
+    color: #fff;
+    margin-right: 500px;
+    width: 30%;
+    padding-left: 50px;
+    padding-top: 20px;
+}

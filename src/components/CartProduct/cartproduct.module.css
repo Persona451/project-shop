@@ -1,0 +1,52 @@
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    margin: 20px 0;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+.wrapper * {
+    width: calc(100% / 6 - 20px);
+}
+.quantityWrapper {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-right: 1px solid black;
+}
+
+.quantityWrapper button {
+    font-size: 24px;
+    background: none;
+    border: none;
+    margin-right: 35px;
+}
+.quantity {
+    text-align: center;
+    margin-right: 35px;
+    font-size: 20px;
+}
+.quantityWrapper button:hover {
+    cursor: pointer;
+}
+.img {
+    border-radius: 20px;
+}
+.img,
+.name,
+.price,
+.subtotal {
+    border-right: 1px solid black;
+    font-size: 20px;
+}
+.deleteBtn {
+    margin-right: 10px;
+    border-radius: 50px;
+    background: #CA0200;
+    color: white;
+    border: none;
+    box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.25);
+    padding: 10px 0;
+}

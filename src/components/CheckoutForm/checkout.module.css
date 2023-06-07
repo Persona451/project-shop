@@ -1,0 +1,57 @@
+.wrapper {
+    width: 90%;
+    margin: 60px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.card {
+    width: 50%;
+    height: 200px;
+    padding: 20px;
+    border-radius: 8px;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    box-shadow: 0px 0px 10px 0 rgba(0, 0, 0, 0.5);
+}
+.card button {
+    width: 50%;
+    margin: auto auto 0;
+    padding: 15px 0;
+    border-radius: 8px;
+    border: none;
+    outline: none;
+    font-size: 20px;
+    background-color: rgb(158, 193, 246);
+}
+.product-wrapper {
+    width: 40%;
+    background-color: rgb(158, 193, 246);
+    padding: 20px 30px;
+    border-radius: 10px;
+}
+.product-wrapper span {
+    float: right;
+}
+.product-title {
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+.product-subtotal {
+    margin: 20px 0;
+}
+.product-name {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.product-total{
+    font-size: 24px;
+}
+.product-total span {
+    font-size: 24px;
+    font-weight: 700;
+    color: #c33d3d;
+}

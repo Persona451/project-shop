@@ -1,0 +1,102 @@
+.wrapper {
+    width: 90%;
+    margin: 80px auto auto auto;
+    display: flex;
+    justify-content: space-between;    
+}
+.img-wrapper {
+    width: 40%;
+}
+.img-wrapper img {
+    display: block;
+    width: 80%;
+    margin: 0 auto;
+}
+.info {
+    width: 50%;
+}
+.title {
+    font-size: 42px;
+}
+.price {
+    font-size: 42px;
+    color: #478cb4;
+    margin: 30px 0;
+}
+.descr {
+    font-size: 24px;
+    width: 90%;
+    margin-top: 40px;
+}
+.control-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-top: 30px;
+}
+.quantity {
+    border: 1px solid #000000;
+    border-radius: 50px;
+    padding: 20px 15px;
+    background-color: rgb(137, 205, 224);
+    border: none;
+}
+.quantity-control {
+    border: none;
+    outline: none;
+    background-color: rgb(137, 205, 224);
+    font-size: 24px;
+}
+.quantity span {
+    margin: 0 40px;
+    font-size: 24px;
+}
+.add {
+    border-radius: 50px;
+    font-size: 20px;
+    background-color: rgb(137, 205, 224);
+    padding: 20px 50px;
+    border: none;
+}
+
+.control {
+    display: flex;
+    justify-content: flex-end;
+    gap: 25px;
+    margin-top: 80px;
+    margin-right: 50px;
+}
+.delete, .update {
+    width: 10%;
+    padding: 10px 15px;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    border-radius: 5px;
+    font-size: 24px;
+}
+.delete {
+    background-color: rgb(226, 97, 97);
+}
+.update {
+    background-color: rgb(104, 104, 229);
+}
+.form {
+    background-image: url(../../../public/images//идгу.avif);
+    width: 100%;
+    align-items: center;
+    padding-top: 150px;
+    display: flex;
+    flex-direction: column;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding-bottom: 160px;
+}
+.edit {
+    text-align: center;
+    padding-bottom: 40px;
+    font-size: 36px;
+}

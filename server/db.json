@@ -1,0 +1,164 @@
+{
+  "users": [
+    {
+      "email": "persona@gmail.com",
+      "password": "$2a$10$3yezZ9V9bWJxnwBUk82teOFb2N9qAu/ap4p2JOVKbeLim3k0rds9i",
+      "username": "gffvdsd",
+      "role": "admin",
+      "id": 1
+    },
+    {
+      "email": "nieve@gmail.com",
+      "password": "$2a$10$ErPIwtvz6fm8YjgLae.L0uVWg9p0IF9NhpSSKDgo07hGlPARribvu",
+      "username": "kairat",
+      "role": "user",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Air Jordan 1 Travis Scott",
+      "descr": "Эта модель имеет полностью черный верх с фантомной строчкой по всей поверхности. Совместные детали включают перевернутый Swoosh Трэвиса Скотта на боковой стороне и обычный Swoosh на средней части, брендинг Cactus Jack на язычке и стельках, а также имя рэпера, написанное перевернутым на правом вкладыше носка.",
+      "img": "https://cdn.shopify.com/s/files/1/2172/5039/products/photo_4_8114e914-8dc0-487a-b56b-749feedca1ac.jpg?v=1673555943&width=1946",
+      "categories": [
+        "nike",
+        "shoe"
+      ],
+      "price": 12000,
+      "createdAt": "2023-05-15T15:30:00.000Z"
+    },
+    {
+      "id": 2,
+      "title": "Air Jordan 1 Mocha",
+      "descr": "Детали. Наконец-то появилась расцветка Air Jordan 1 «Reverse Mocha», разработанная Трэвисом Скоттом и Jordan Brand. Эти кроссовки изготовлены из сочетания замши и кожаных вставок нейтральных тонов — Sail и Ridgerock, а на язычке и вышитом логотипе на пятке — красные акценты University.",
+      "img": "https://cdn.shopify.com/s/files/1/0225/6679/products/image_190fbc02-85c2-4915-b4a3-2507f33bbb9b.png?v=1677212697&width=1445",
+      "categories": [
+        "dunk",
+        "shoe"
+      ],
+      "price": 13170,
+      "createdAt": "2023-05-27T15:30:00.000Z"
+    },
+    {
+      "id": 3,
+      "title": "Nike Air Jordan 1 'Vodoo'",
+      "descr": "Air Jordan 1 Low «Voodoo» — это особая цветовая гамма классических кроссовок, вдохновленная Новым Орлеаном, которая была выпущена вместе с Nike Zion 2 звезды баскетбола Зайона Уильямсона с таким же прозвищем. Эти кроссовки вдохновлены куклами вуду, неотъемлемыми элементами легенд Нового Орлеана.",
+      "img": "https://www.nwahype.com/uploads/1/4/2/3/142344524/s159676499858804371_p2742_i2_w1080.jpeg?width=2400&optimize=medium",
+      "categories": [
+        "air force",
+        "shoe"
+      ],
+      "price": "3200",
+      "createdAt": "2023-05-14T15:30:00.000Z"
+    },
+    {
+      "id": 4,
+      "title": "SB Dunk Purple Lobster",
+      "descr": "Модель Concepts x Dunk Low SB 'Purple Lobster' черпает вдохновение в обычном, возможно, мифическом, оттенке морского существа, который также является забавным цветом, когда смешиваются синий и красный цвета - смесь предыдущих цветовых решений из сотрудничества.",
+      "img": "https://cdn.shopify.com/s/files/1/0360/6491/9692/products/SBDUNKLOWPROOGQSPurpleLobster3_1024x.png?v=1673942196",
+      "categories": [
+        "dunk",
+        "shoe"
+      ],
+      "price": 55200,
+      "createdAt": "2023-05-16T15:00:00.000Z"
+    },
+    {
+      "id": 5,
+      "title": "NB 1906D Protection Pack",
+      "descr": "Замша темно-серого цвета покрывает более светлую и тонкую замшу, выступающую снизу, что придает обуви ощущение многослойности. В основе конструкции лежит плотно сплетенная темно-серая сетка, в которой собраны все нюансы 1906D.",
+      "img": "https://media.karousell.com/media/photos/products/2023/2/17/new_balance_1906d_protection_p_1676643265_d011e8b2_progressive.jpg",
+      "categories": [
+        "dunk",
+        "shoe"
+      ],
+      "price": 15800,
+      "createdAt": "2023-05-22T15:30:00.000Z"
+    },
+    {
+      "id": 6,
+      "title": "NB 9060 Castlerock Black",
+      "descr": "Эти кроссовки представлены в цветовой гамме Rain Cloud с акцентами Castlerock и White и имеют дышащий сетчатый верх с замшевыми накладками для превосходного внешнего вида. Они имеют кружевную застежку с низким воротником с мягкой подкладкой на щиколотке, чтобы зафиксировать вас.",
+      "img": "https://nevnev.co.il/wp-content/uploads/2023/02/New-Balance-9060-www.nevnev.co_.il-%D7%A0%D7%A2%D7%9C%D7%99-%D7%A0%D7%99%D7%95-%D7%91%D7%90%D7%9C%D7%90%D7%A0%D7%A1-9060-%D7%A0%D7%91%D7%A0%D7%91-Black-Castlerock-Grey-5.jpg",
+      "categories": [
+        "dunk",
+        "shoe"
+      ],
+      "price": 14000,
+      "createdAt": "2023-05-24T15:30:00.000Z"
+    },
+    {
+      "id": 7,
+      "title": "NB 550 White/Blue",
+      "descr": "Отдавая дань уважения оригинальным цветовым решениям 1989 года, которые носили баскетболисты, эти модели New Balance 550 доступны в цветовых вариантах, вдохновленных командами. Каждая пара имеет белый кожаный верх с черной кожей на носке и воротнике.",
+      "img": "https://atletika64.ru/assets/images/products/24927/bb550hn1-2.jpg",
+      "categories": [
+        "dunk",
+        "shoe"
+      ],
+      "price": 9700,
+      "createdAt": "2023-05-23T15:30:00.000Z"
+    },
+    {
+      "id": 8,
+      "title": "NB 530 Sneaker White",
+      "descr": "Кроссовки New Balance 530 — это возврат к одному из наших классических образов для бега. Эта повседневная обувь сочетает в себе повседневный стиль с современной технологией амортизации ABZORB для превосходного комфорта под ногами. Добавьте технологичности 2000-х в свой стиль бега с кроссовками 530.",
+      "img": "https://cdn.shopify.com/s/files/1/3013/2676/products/holy-new-balance-530-MR530CT-3_1200x1200.jpg?v=1660227970",
+      "categories": [
+        "dunk",
+        "shoe"
+      ],
+      "price": "9500",
+      "createdAt": "2023-05-26T15:30:00.000Z"
+    },
+    {
+      "id": 9,
+      "title": "Air Jordan 1 Retro High OG",
+      "descr": "Эта версия Retro High OG сочетает в себе премиальную кожу, удобную амортизацию и детали классического дизайна. Вставка Air-Sole в области пятки обеспечивает ту же легкую амортизацию, которой наслаждался MJ в свои игровые дни. Натуральная кожа в верхней части обеспечивает долговечность и структуру с роскошным оттенком.",
+      "img": "https://cdn.shopify.com/s/files/1/2172/5039/products/DZ2523_001_E_PREM.jpg?v=1678129582&width=1946",
+      "categories": [
+        "dunk",
+        "shoe"
+      ],
+      "price": 14870,
+      "createdAt": "2023-05-20T15:30:00.000Z"
+    },
+    {
+      "id": 10,
+      "title": "Dunk SB Orange Lobster",
+      "descr": "Коллекция Concepts x Nike Dunk Low SB «Orange Lobster» продолжает совместную серию, начатую в 2008 году. При разработке дизайна обуви бостонский магазин черпает вдохновение в редком оранжевом лобстере. Верх из нубука окрашен в различные оттенки оранжевого цвета с легкими крапчатыми накладками и логотипом Swoosh в тон с белым контуром.",
+      "img": "https://cdn.shopify.com/s/files/1/2172/5039/products/photo_4_38cfda40-aebb-4ea2-aac6-a7c6507f1a51.jpg?v=1673560971&width=1946",
+      "categories": [
+        "dunk",
+        "shoe"
+      ],
+      "price": 10500,
+      "createdAt": "2023-05-21T15:30:00.000Z"
+    },
+    {
+      "id": 11,
+      "title": "Nike Blazer Mid '77",
+      "descr": "Nike Blazer Mid '77 Vintage “Reverse Logo - Black” Классика баскетбола в новой интрепретации. Натуральная кожа, цельная вулканизированная подошва, аутсоль с зигзагообразным рисунком. Средний профиль и надёжная шнуровка из 10 петель. Открытый пеноматериал на язычке для ретро-образа.",
+      "img": "https://apavivisiem.lv/wp-content/uploads/2022/06/IMG_0562-1.jpeg",
+      "categories": [
+        "dunk",
+        "shoe"
+      ],
+      "price": 4790,
+      "createdAt": "2023-05-19T15:30:00.000Z"
+    },
+    {
+      "id": 12,
+      "title": "Tiffany & Nike Air Force 1",
+      "descr": "Nike/Tiffany Air Force 1 1837 изготовлены из высококачественной черной замши с логотипом Tiffany Blue® Swoosh и архивным логотипом Tiffany на язычке. Подошва из пеноматериала, резиновая подошва и точки поворота с акцентом Tiffany Blue® определяют кроссовки, которые поставляются с черными веревочными шнурками, а также с тремя парами плоских шнурков Tiffany Blue®, желтого и белого цветов.",
+      "img": "https://www.nwahype.com/uploads/1/4/2/3/142344524/s159676499858804371_p3731_i1_w1080.jpeg",
+      "categories": [
+        "dunk",
+        "shoe"
+      ],
+      "price": 35000,
+      "createdAt": "2023-05-18T15:30:00.000Z"
+    }
+  ]
+}

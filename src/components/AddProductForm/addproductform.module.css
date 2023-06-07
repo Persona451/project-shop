@@ -1,0 +1,32 @@
+.wrapper {
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 30px;
+    background-image: url(../../../public/images/white-3d-pedestal-background-with-realistic-palm-leaves-for-cosmetic-product-presentation-or-fashion-magazine-free-vector.jpg);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding-bottom: 87px;
+}
+.form {
+    width: 40%;
+    margin: 50px auto auto auto;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 50px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.link_img {
+    width: 70%;
+    height: 40px;
+    font-size: 18px;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+.title {
+    text-align: center;
+    font-size: 32px;
+    padding-bottom: 20px;
+}

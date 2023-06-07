@@ -1,0 +1,35 @@
+.products-wrapper {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    flex-wrap: wrap;
+    padding: 50px 0 100px;
+}
+.pagination-wrapper {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+.pagination-wrapper li {
+    list-style-type: none;
+}
+.pagination-page, .pagination-next {
+    cursor: pointer;
+    width: 60px;
+    height: 60px;
+    background: #464f97;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    color: white;
+}
+.pagination-active {
+    background-color: #50a5eb;
+}
+.pagination-next {
+    width: 90px;
+}
