@@ -34,6 +34,7 @@ const AddProductForm = () => {
             .catch(err => {
                 console.log(err);
             });
+            
     };
 
     return (
